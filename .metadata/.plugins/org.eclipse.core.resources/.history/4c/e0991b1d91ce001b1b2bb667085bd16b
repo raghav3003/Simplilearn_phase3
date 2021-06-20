@@ -1,0 +1,12 @@
+package testProject1;
+
+import org.springframework.core.io.*;
+
+public class Test {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Resoure r = new ClassPathResource("applicationContext.xml");
+	}
+
+}

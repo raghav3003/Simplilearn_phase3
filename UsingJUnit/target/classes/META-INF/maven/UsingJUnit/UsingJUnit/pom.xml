@@ -12,7 +12,6 @@
 		    <artifactId>junit-platform-runner</artifactId>
 		    <version>1.5.2</version>
 		</dependency>
- 
   
         <dependency>
             <groupId>org.junit.jupiter</groupId>
